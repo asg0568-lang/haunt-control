@@ -90,7 +90,7 @@ All visuals are drawn in code with plain shapes.
 
 | File | Used for | Source |
 |---|---|---|
-| `sfx/ambience.ogg` | Background ambience | (https://freesound.org) |
+| `sfx/ambience.ogg` | Background ambience | https://freesound.org |
 | `sfx/scare.mp3` | Scare sound | https://freesound.org |
 | `sfx/flee.wav` | Visitor running away | https://freesound.org |
 | `sfx/scream.*` (optional) | Banshee Scream | https://freesound.org |
