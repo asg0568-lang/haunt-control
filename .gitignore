@@ -1,0 +1,12 @@
+# Godot 4 cache and generated files
+.godot/
+*.translation
+
+# Web export output (the playable build is hosted on itch.io)
+Build/
+build/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+*.tmp
