@@ -89,13 +89,13 @@ AI was used heavily and is disclosed here on purpose.
 All visuals are drawn in code with plain shapes.
 
 | File | Used for | Source |
-|---|---|---|---|
-| `sfx/ambience.ogg` | Background ambience | `(https://freesound.org)` |
-| `sfx/scare.mp3` | Scare sound | `https://freesound.org` |
-| `sfx/flee.wav` | Visitor running away | `https://freesound.org` |
-| `sfx/scream.*` (optional) | Banshee Scream | `FILL-IN` |
-| `sfx/shockwave.*` (optional) | Priest shockwave | `FILL-IN` |
-| `sfx/dodge.*` (optional) | Dodge | `FILL-IN` |
+|---|---|---|
+| `sfx/ambience.ogg` | Background ambience | (https://freesound.org) |
+| `sfx/scare.mp3` | Scare sound | https://freesound.org |
+| `sfx/flee.wav` | Visitor running away | https://freesound.org |
+| `sfx/scream.*` (optional) | Banshee Scream | https://freesound.org |
+| `sfx/shockwave.*` (optional) | Priest shockwave | https://freesound.org |
+| `sfx/dodge.*` (optional) | Dodge | https://freesound.org |
 
 ## Built with
 
