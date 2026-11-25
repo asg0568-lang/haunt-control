@@ -4,7 +4,7 @@
 
 A small top-down horror prototype built with Godot 4 for the Lila Games Game Designer written test (Question 1). Plain shapes, no art. The point is the loop.
 
-**Play in your browser (one click):** `PASTE-YOUR-ITCH.IO-LINK-HERE`
+**Play in your browser (one click):** (https://arpit-s-cat.itch.io/hauntcontrol)
 
 Works on desktop (keyboard) and mobile (touch controls, landscape).
 
