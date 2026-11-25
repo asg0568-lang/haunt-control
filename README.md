@@ -84,8 +84,6 @@ AI was used heavily and is disclosed here on purpose.
 - **What I decided:** the game concept (playing the ghost), the visitor scenarios and their dialogue direction, the reward-pool design, the energy trade-offs, the priest boss behaviour, the tutorial approach, and every tuning change after testing.
 - **AI in the game itself:** none in this prototype. Visitors use simple rule-based behaviour.
 
-`FILL-IN: add 2 or 3 specific examples of things you tested and changed yourself, for example a number you tuned, or a rule you rejected.`
-
 ## Assets and credits
 
 All visuals are drawn in code with plain shapes.
